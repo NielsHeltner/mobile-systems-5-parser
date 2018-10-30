@@ -1,0 +1,26 @@
+12:47:25 Stop Still
+12:47:25 Start Walking
+12:50:59 Stop On bicycle
+12:50:59 Start Still
+12:51:05 Stop Still
+12:51:05 Start Walking
+12:51:10 Stop Walking
+12:51:10 Start On bicycle
+12:57:33 Stop On bicycle
+12:57:33 Start Walking
+12:57:59 Stop Walking
+12:57:59 Start On bicycle
+13:01:56 Stop On bicycle
+13:01:56 Start Walking
+13:03:38 Stop Walking
+13:03:38 Start Still
+13:24:49 Stop Walking
+13:24:49 Start Still
+13:25:00 Stop Still
+13:25:00 Start Walking
+13:31:08 Stop In vehicle
+13:31:08 Start On bicycle
+13:43:27 Stop On bicycle
+13:43:27 Start In vehicle
+13:47:53 Stop Walking
+13:47:53 Start Still

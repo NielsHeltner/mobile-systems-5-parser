@@ -1,0 +1,233 @@
+12:46:06 Tilting
+12:47:00 Unknown
+12:47:05 Unknown
+12:47:10 Unknown
+12:47:15 Unknown
+12:47:20 Unknown
+12:47:25 On foot
+12:47:30 On foot
+12:47:35 On foot
+12:47:40 On foot
+12:47:45 On foot
+12:47:51 On foot
+12:48:05 Tilting
+12:48:18 Unknown
+12:48:23 Unknown
+12:48:29 On foot
+12:48:34 On foot
+12:48:39 Unknown
+12:48:44 On foot
+12:50:49 On bicycle
+12:50:54 On bicycle
+12:50:59 Still
+12:51:02 Tilting
+12:51:04 On foot
+12:51:07 Tilting
+12:51:10 On bicycle
+12:51:15 On bicycle
+12:51:20 On bicycle
+12:51:25 On bicycle
+12:51:30 On bicycle
+12:51:35 On bicycle
+12:51:40 On bicycle
+12:51:45 On bicycle
+12:51:50 On bicycle
+12:55:00 On bicycle
+12:55:02 Tilting
+12:55:05 On bicycle
+12:55:07 Tilting
+12:55:10 On bicycle
+12:55:15 On bicycle
+12:55:20 On bicycle
+12:55:25 On bicycle
+12:55:30 On bicycle
+12:55:35 On bicycle
+12:55:40 On bicycle
+12:55:45 On bicycle
+12:55:51 On bicycle
+12:55:56 On bicycle
+12:56:01 On bicycle
+12:57:15 Tilting
+12:57:18 On bicycle
+12:57:23 On bicycle
+12:57:28 On bicycle
+12:57:33 On foot
+12:57:35 Tilting
+12:57:38 On foot
+12:57:48 Tilting
+12:57:59 On bicycle
+12:58:07 On bicycle
+12:58:11 Tilting
+12:58:15 On bicycle
+12:58:20 Tilting
+12:58:26 On bicycle
+13:00:03 On bicycle
+13:00:08 Unknown
+13:00:13 Unknown
+13:00:16 Tilting
+13:00:19 Unknown
+13:00:24 Unknown
+13:00:29 On bicycle
+13:00:34 On bicycle
+13:00:39 On bicycle
+13:00:45 On bicycle
+13:00:50 On bicycle
+13:00:55 On bicycle
+13:01:00 On bicycle
+13:01:05 On bicycle
+13:01:41 On bicycle
+13:01:43 Tilting
+13:01:46 Unknown
+13:01:48 Tilting
+13:01:51 Unknown
+13:01:56 On foot
+13:02:00 On foot
+13:02:05 On foot
+13:02:10 On foot
+13:02:15 On foot
+13:02:47 Unknown
+13:02:57 On foot
+13:03:02 On foot
+13:03:07 On foot
+13:03:12 On foot
+13:03:15 Tilting
+13:03:17 On foot
+13:03:23 On foot
+13:03:28 On foot
+13:03:33 Unknown
+13:03:38 Still
+13:03:43 Still
+13:03:48 Still
+13:03:53 Still
+13:03:58 Still
+13:04:01 Tilting
+13:04:03 Still
+13:05:46 Still
+13:05:51 Still
+13:05:56 Still
+13:06:01 Still
+13:06:06 Still
+13:06:11 Still
+13:06:17 Still
+13:06:22 Still
+13:06:27 Still
+13:06:32 Still
+13:06:38 Still
+13:06:44 Still
+13:06:50 Still
+13:06:55 Still
+13:07:01 Still
+13:07:07 Still
+13:07:12 Still
+13:07:18 Still
+13:07:23 Still
+13:07:29 Still
+13:07:34 Still
+13:10:01 Tilting
+13:10:03 On foot
+13:10:09 On foot
+13:10:14 On foot
+13:10:16 Tilting
+13:10:19 On foot
+13:10:24 On foot
+13:10:30 On foot
+13:10:35 On foot
+13:10:40 On foot
+13:10:45 On foot
+13:10:51 On foot
+13:10:57 On foot
+13:11:03 On foot
+13:11:08 On foot
+13:11:13 On foot
+13:23:37 Tilting
+13:23:39 On foot
+13:23:45 On foot
+13:23:50 On foot
+13:23:55 On foot
+13:24:00 On foot
+13:24:05 On foot
+13:24:10 On foot
+13:24:18 On foot
+13:24:23 Unknown
+13:24:26 Tilting
+13:24:28 On foot
+13:24:33 On foot
+13:24:36 Tilting
+13:24:39 Unknown
+13:24:44 Unknown
+13:24:49 Still
+13:24:51 Tilting
+13:24:54 Still
+13:24:57 Tilting
+13:25:00 On foot
+13:25:05 Unknown
+13:27:26 Unknown
+13:27:31 Unknown
+13:27:37 Unknown
+13:27:42 On foot
+13:27:47 On foot
+13:27:52 On foot
+13:27:57 On foot
+13:28:02 On foot
+13:28:07 On foot
+13:28:12 On foot
+13:28:17 On foot
+13:28:26 On foot
+13:30:13 In vehicle
+13:30:19 Unknown
+13:30:23 Tilting
+13:30:27 Still
+13:30:32 Still
+13:30:37 Still
+13:30:43 Unknown
+13:30:48 In vehicle
+13:30:53 In vehicle
+13:30:58 In vehicle
+13:31:03 In vehicle
+13:31:08 On bicycle
+13:31:13 On bicycle
+13:32:12 In vehicle
+13:32:17 In vehicle
+13:32:19 Tilting
+13:32:22 Still
+13:32:28 Still
+13:32:33 In vehicle
+13:32:38 Still
+13:32:44 Still
+13:32:49 In vehicle
+13:32:54 In vehicle
+13:32:59 In vehicle
+13:33:04 In vehicle
+13:33:09 In vehicle
+13:33:14 In vehicle
+13:42:41 Unknown
+13:42:54 Unknown
+13:43:11 Tilting
+13:43:27 In vehicle
+13:43:32 In vehicle
+13:43:37 In vehicle
+13:43:42 In vehicle
+13:46:27 Tilting
+13:46:30 On foot
+13:46:35 On foot
+13:46:40 On foot
+13:46:45 On foot
+13:46:51 On foot
+13:46:56 On foot
+13:47:01 On foot
+13:47:06 On foot
+13:47:12 On foot
+13:47:17 On foot
+13:47:22 On foot
+13:47:27 On foot
+13:47:32 On foot
+13:47:37 On foot
+13:47:43 On foot
+13:47:48 On foot
+13:47:53 Still
+13:47:58 Still
+13:48:03 Still
+13:48:08 Still
+13:48:13 Still
+13:48:18 Still
+13:48:23 Unknown

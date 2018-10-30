@@ -7,6 +7,7 @@ import com.google.gson.JsonObject;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.PrintWriter;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
@@ -37,23 +38,28 @@ public class Parser {
         transitions.put(1, "Stop");
         
         
+        
         Gson gson = new Gson();
         JsonObject root = gson.fromJson(new FileReader(new File(PATH)), JsonObject.class);
         
+        PrintWriter transitionWriter = new PrintWriter(new File("parsed-data-transition.txt"));
         JsonObject activityTransitions = root.getAsJsonObject(ACTIVITY_TRANSITION);
         for (Entry<String, JsonElement> entry : activityTransitions.entrySet()) {
             entry.getValue().getAsJsonArray().forEach(e -> {
-                System.out.println(getTimeFormatted(Long.parseLong(entry.getKey())) + " " 
+                transitionWriter.println(getTimeFormatted(Long.parseLong(entry.getKey())) + " " 
                         + transitions.get(e.getAsJsonObject().get("transitionType").getAsInt()) + " "
                         + activities.get(e.getAsJsonObject().get("activityType").getAsInt()));
             });
         }
+        transitionWriter.close();
         
+        PrintWriter recognitionWriter = new PrintWriter(new File("parsed-data-recognition.txt"));
         JsonObject activityRecognitions = root.getAsJsonObject(ACTIVITY_RECOGNITION);
         for (Entry<String, JsonElement> entry : activityRecognitions.entrySet()) {
-            System.out.println(getTimeFormatted(Long.parseLong(entry.getKey())) + " " 
+            recognitionWriter.println(getTimeFormatted(Long.parseLong(entry.getKey())) + " " 
                         + activities.get(entry.getValue().getAsJsonArray().get(0).getAsJsonObject().get("type").getAsInt()));
         }
+        recognitionWriter.close();
     }
     
     private static String getTimeFormatted(long timeMs) {
