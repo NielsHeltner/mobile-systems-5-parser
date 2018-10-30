@@ -1,0 +1,3443 @@
+{
+  "activityRecognitions" : {
+    "1540464366014" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540464420064" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540464425195" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 16,
+      "type" : 3
+    }, {
+      "confidence" : 15,
+      "type" : 0
+    }, {
+      "confidence" : 15,
+      "type" : 2
+    }, {
+      "confidence" : 15,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540464430277" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 30,
+      "type" : 2
+    }, {
+      "confidence" : 30,
+      "type" : 7
+    }, {
+      "confidence" : 9,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540464435362" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540464440452" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 28,
+      "type" : 2
+    }, {
+      "confidence" : 28,
+      "type" : 7
+    }, {
+      "confidence" : 9,
+      "type" : 1
+    }, {
+      "confidence" : 9,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540464445573" : [ {
+      "confidence" : 61,
+      "type" : 2
+    }, {
+      "confidence" : 61,
+      "type" : 7
+    }, {
+      "confidence" : 14,
+      "type" : 3
+    }, {
+      "confidence" : 12,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540464450648" : [ {
+      "confidence" : 81,
+      "type" : 2
+    }, {
+      "confidence" : 81,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 3,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    } ],
+    "1540464455722" : [ {
+      "confidence" : 55,
+      "type" : 2
+    }, {
+      "confidence" : 55,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540464460781" : [ {
+      "confidence" : 53,
+      "type" : 2
+    }, {
+      "confidence" : 53,
+      "type" : 7
+    }, {
+      "confidence" : 22,
+      "type" : 4
+    }, {
+      "confidence" : 6,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540464465840" : [ {
+      "confidence" : 38,
+      "type" : 2
+    }, {
+      "confidence" : 38,
+      "type" : 7
+    }, {
+      "confidence" : 28,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 7,
+      "type" : 3
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    } ],
+    "1540464471461" : [ {
+      "confidence" : 32,
+      "type" : 2
+    }, {
+      "confidence" : 32,
+      "type" : 7
+    }, {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540464485150" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540464498838" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 21,
+      "type" : 1
+    }, {
+      "confidence" : 15,
+      "type" : 2
+    }, {
+      "confidence" : 15,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540464503998" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 27,
+      "type" : 2
+    }, {
+      "confidence" : 27,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    }, {
+      "confidence" : 9,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    } ],
+    "1540464509095" : [ {
+      "confidence" : 49,
+      "type" : 2
+    }, {
+      "confidence" : 49,
+      "type" : 7
+    }, {
+      "confidence" : 20,
+      "type" : 1
+    }, {
+      "confidence" : 12,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    }, {
+      "confidence" : 4,
+      "type" : 0
+    } ],
+    "1540464514183" : [ {
+      "confidence" : 82,
+      "type" : 2
+    }, {
+      "confidence" : 82,
+      "type" : 7
+    }, {
+      "confidence" : 13,
+      "type" : 8
+    }, {
+      "confidence" : 4,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540464519267" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540464524347" : [ {
+      "confidence" : 57,
+      "type" : 2
+    }, {
+      "confidence" : 57,
+      "type" : 7
+    }, {
+      "confidence" : 16,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 4,
+      "type" : 0
+    } ],
+    "1540464649610" : [ {
+      "confidence" : 56,
+      "type" : 1
+    }, {
+      "confidence" : 13,
+      "type" : 3
+    }, {
+      "confidence" : 9,
+      "type" : 2
+    }, {
+      "confidence" : 9,
+      "type" : 4
+    }, {
+      "confidence" : 9,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    } ],
+    "1540464654726" : [ {
+      "confidence" : 29,
+      "type" : 1
+    }, {
+      "confidence" : 27,
+      "type" : 3
+    }, {
+      "confidence" : 13,
+      "type" : 2
+    }, {
+      "confidence" : 13,
+      "type" : 7
+    }, {
+      "confidence" : 11,
+      "type" : 4
+    }, {
+      "confidence" : 9,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540464659828" : [ {
+      "confidence" : 30,
+      "type" : 3
+    }, {
+      "confidence" : 17,
+      "type" : 1
+    }, {
+      "confidence" : 17,
+      "type" : 2
+    }, {
+      "confidence" : 17,
+      "type" : 7
+    }, {
+      "confidence" : 12,
+      "type" : 0
+    }, {
+      "confidence" : 11,
+      "type" : 4
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540464662391" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540464664953" : [ {
+      "confidence" : 34,
+      "type" : 2
+    }, {
+      "confidence" : 34,
+      "type" : 7
+    }, {
+      "confidence" : 29,
+      "type" : 3
+    }, {
+      "confidence" : 12,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540464667518" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540464670083" : [ {
+      "confidence" : 22,
+      "type" : 1
+    }, {
+      "confidence" : 22,
+      "type" : 3
+    }, {
+      "confidence" : 17,
+      "type" : 4
+    }, {
+      "confidence" : 15,
+      "type" : 0
+    }, {
+      "confidence" : 12,
+      "type" : 2
+    }, {
+      "confidence" : 12,
+      "type" : 7
+    }, {
+      "confidence" : 4,
+      "type" : 8
+    } ],
+    "1540464675200" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464680279" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464685383" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464690465" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464695531" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464700613" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464705700" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464710781" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464900182" : [ {
+      "confidence" : 33,
+      "type" : 1
+    }, {
+      "confidence" : 27,
+      "type" : 4
+    }, {
+      "confidence" : 12,
+      "type" : 2
+    }, {
+      "confidence" : 12,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    } ],
+    "1540464902736" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540464905290" : [ {
+      "confidence" : 51,
+      "type" : 1
+    }, {
+      "confidence" : 38,
+      "type" : 2
+    }, {
+      "confidence" : 38,
+      "type" : 7
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 0
+    }, {
+      "confidence" : 1,
+      "type" : 3
+    } ],
+    "1540464907856" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540464910422" : [ {
+      "confidence" : 91,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 2
+    }, {
+      "confidence" : 6,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540464915527" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464920592" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464925659" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464930737" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464935803" : [ {
+      "confidence" : 55,
+      "type" : 1
+    }, {
+      "confidence" : 20,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 2
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540464940871" : [ {
+      "confidence" : 97,
+      "type" : 1
+    }, {
+      "confidence" : 2,
+      "type" : 2
+    }, {
+      "confidence" : 2,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540464945930" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464951019" : [ {
+      "confidence" : 98,
+      "type" : 1
+    }, {
+      "confidence" : 2,
+      "type" : 2
+    }, {
+      "confidence" : 2,
+      "type" : 7
+    } ],
+    "1540464956093" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540464961182" : [ {
+      "confidence" : 98,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 2
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 7
+    } ],
+    "1540465035637" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465038177" : [ {
+      "confidence" : 46,
+      "type" : 1
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 13,
+      "type" : 2
+    }, {
+      "confidence" : 13,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540465043292" : [ {
+      "confidence" : 61,
+      "type" : 1
+    }, {
+      "confidence" : 34,
+      "type" : 2
+    }, {
+      "confidence" : 34,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 0
+    }, {
+      "confidence" : 2,
+      "type" : 3
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    }, {
+      "confidence" : 0,
+      "type" : 8
+    } ],
+    "1540465048372" : [ {
+      "confidence" : 57,
+      "type" : 1
+    }, {
+      "confidence" : 21,
+      "type" : 2
+    }, {
+      "confidence" : 21,
+      "type" : 7
+    }, {
+      "confidence" : 9,
+      "type" : 4
+    }, {
+      "confidence" : 4,
+      "type" : 0
+    }, {
+      "confidence" : 4,
+      "type" : 3
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    } ],
+    "1540465053434" : [ {
+      "confidence" : 45,
+      "type" : 2
+    }, {
+      "confidence" : 45,
+      "type" : 7
+    }, {
+      "confidence" : 29,
+      "type" : 1
+    }, {
+      "confidence" : 11,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 4,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540465055974" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465058513" : [ {
+      "confidence" : 37,
+      "type" : 2
+    }, {
+      "confidence" : 37,
+      "type" : 7
+    }, {
+      "confidence" : 27,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    } ],
+    "1540465068857" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465079200" : [ {
+      "confidence" : 98,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 0
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465087329" : [ {
+      "confidence" : 56,
+      "type" : 1
+    }, {
+      "confidence" : 17,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 9,
+      "type" : 0
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    } ],
+    "1540465091480" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465095630" : [ {
+      "confidence" : 31,
+      "type" : 1
+    }, {
+      "confidence" : 26,
+      "type" : 2
+    }, {
+      "confidence" : 26,
+      "type" : 7
+    }, {
+      "confidence" : 20,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 3
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    } ],
+    "1540465100887" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465106143" : [ {
+      "confidence" : 43,
+      "type" : 1
+    }, {
+      "confidence" : 26,
+      "type" : 2
+    }, {
+      "confidence" : 26,
+      "type" : 7
+    }, {
+      "confidence" : 13,
+      "type" : 3
+    }, {
+      "confidence" : 9,
+      "type" : 0
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465203085" : [ {
+      "confidence" : 32,
+      "type" : 1
+    }, {
+      "confidence" : 30,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 2
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540465208250" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540465213272" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540465216419" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465219565" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 28,
+      "type" : 1
+    }, {
+      "confidence" : 11,
+      "type" : 2
+    }, {
+      "confidence" : 11,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540465224748" : [ {
+      "confidence" : 30,
+      "type" : 4
+    }, {
+      "confidence" : 17,
+      "type" : 3
+    }, {
+      "confidence" : 14,
+      "type" : 2
+    }, {
+      "confidence" : 14,
+      "type" : 7
+    }, {
+      "confidence" : 13,
+      "type" : 0
+    }, {
+      "confidence" : 9,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540465229849" : [ {
+      "confidence" : 45,
+      "type" : 1
+    }, {
+      "confidence" : 14,
+      "type" : 2
+    }, {
+      "confidence" : 14,
+      "type" : 7
+    }, {
+      "confidence" : 12,
+      "type" : 3
+    }, {
+      "confidence" : 11,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540465234925" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540465239991" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540465245084" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540465250144" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540465255214" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540465260287" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540465265362" : [ {
+      "confidence" : 100,
+      "type" : 1
+    } ],
+    "1540465301014" : [ {
+      "confidence" : 32,
+      "type" : 1
+    }, {
+      "confidence" : 30,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 2
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540465303586" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465306158" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540465308738" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465311318" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 27,
+      "type" : 2
+    }, {
+      "confidence" : 27,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 9,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540465316422" : [ {
+      "confidence" : 32,
+      "type" : 2
+    }, {
+      "confidence" : 32,
+      "type" : 7
+    }, {
+      "confidence" : 30,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540465320162" : [ {
+      "confidence" : 97,
+      "type" : 2
+    }, {
+      "confidence" : 97,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540465325303" : [ {
+      "confidence" : 100,
+      "type" : 2
+    }, {
+      "confidence" : 100,
+      "type" : 7
+    } ],
+    "1540465330397" : [ {
+      "confidence" : 95,
+      "type" : 2
+    }, {
+      "confidence" : 95,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 3
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465335470" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465367292" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540465377521" : [ {
+      "confidence" : 93,
+      "type" : 2
+    }, {
+      "confidence" : 93,
+      "type" : 7
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 0,
+      "type" : 3
+    } ],
+    "1540465382666" : [ {
+      "confidence" : 85,
+      "type" : 2
+    }, {
+      "confidence" : 85,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    }, {
+      "confidence" : 4,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    }, {
+      "confidence" : 2,
+      "type" : 3
+    }, {
+      "confidence" : 1,
+      "type" : 0
+    } ],
+    "1540465387774" : [ {
+      "confidence" : 55,
+      "type" : 2
+    }, {
+      "confidence" : 55,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540465392864" : [ {
+      "confidence" : 49,
+      "type" : 2
+    }, {
+      "confidence" : 49,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 7,
+      "type" : 3
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    } ],
+    "1540465395398" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465397932" : [ {
+      "confidence" : 45,
+      "type" : 2
+    }, {
+      "confidence" : 45,
+      "type" : 7
+    }, {
+      "confidence" : 22,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    } ],
+    "1540465403043" : [ {
+      "confidence" : 35,
+      "type" : 2
+    }, {
+      "confidence" : 35,
+      "type" : 7
+    }, {
+      "confidence" : 27,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    } ],
+    "1540465408118" : [ {
+      "confidence" : 34,
+      "type" : 2
+    }, {
+      "confidence" : 34,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 14,
+      "type" : 3
+    }, {
+      "confidence" : 13,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540465413170" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 15,
+      "type" : 3
+    }, {
+      "confidence" : 14,
+      "type" : 0
+    }, {
+      "confidence" : 14,
+      "type" : 2
+    }, {
+      "confidence" : 14,
+      "type" : 7
+    }, {
+      "confidence" : 9,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540465418310" : [ {
+      "confidence" : 32,
+      "type" : 3
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 14,
+      "type" : 0
+    }, {
+      "confidence" : 12,
+      "type" : 2
+    }, {
+      "confidence" : 12,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540465423453" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465428588" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465433723" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465438850" : [ {
+      "confidence" : 77,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 7,
+      "type" : 2
+    }, {
+      "confidence" : 7,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465441082" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465443313" : [ {
+      "confidence" : 55,
+      "type" : 3
+    }, {
+      "confidence" : 20,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 2
+    }, {
+      "confidence" : 5,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540465546463" : [ {
+      "confidence" : 32,
+      "type" : 3
+    }, {
+      "confidence" : 28,
+      "type" : 4
+    }, {
+      "confidence" : 11,
+      "type" : 2
+    }, {
+      "confidence" : 11,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    } ],
+    "1540465551580" : [ {
+      "confidence" : 45,
+      "type" : 3
+    }, {
+      "confidence" : 25,
+      "type" : 0
+    }, {
+      "confidence" : 12,
+      "type" : 2
+    }, {
+      "confidence" : 12,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    } ],
+    "1540465556690" : [ {
+      "confidence" : 42,
+      "type" : 3
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 11,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 2
+    }, {
+      "confidence" : 8,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540465561761" : [ {
+      "confidence" : 81,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 2
+    }, {
+      "confidence" : 8,
+      "type" : 7
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 0
+    } ],
+    "1540465566874" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465571950" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465577013" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465582120" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465587283" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465592411" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465598497" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465604399" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465610265" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465615384" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465621704" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465627587" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465632999" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465638774" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465643900" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465649762" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465654957" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540465801329" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465803868" : [ {
+      "confidence" : 98,
+      "type" : 2
+    }, {
+      "confidence" : 98,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    } ],
+    "1540465809019" : [ {
+      "confidence" : 97,
+      "type" : 2
+    }, {
+      "confidence" : 97,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540465814081" : [ {
+      "confidence" : 96,
+      "type" : 2
+    }, {
+      "confidence" : 96,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465816618" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540465819154" : [ {
+      "confidence" : 100,
+      "type" : 2
+    }, {
+      "confidence" : 100,
+      "type" : 7
+    } ],
+    "1540465824320" : [ {
+      "confidence" : 100,
+      "type" : 2
+    }, {
+      "confidence" : 100,
+      "type" : 7
+    } ],
+    "1540465830335" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465835422" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465840496" : [ {
+      "confidence" : 98,
+      "type" : 2
+    }, {
+      "confidence" : 98,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    } ],
+    "1540465845547" : [ {
+      "confidence" : 98,
+      "type" : 2
+    }, {
+      "confidence" : 98,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540465851512" : [ {
+      "confidence" : 100,
+      "type" : 2
+    }, {
+      "confidence" : 100,
+      "type" : 7
+    } ],
+    "1540465857603" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540465863468" : [ {
+      "confidence" : 97,
+      "type" : 2
+    }, {
+      "confidence" : 97,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    } ],
+    "1540465868555" : [ {
+      "confidence" : 96,
+      "type" : 2
+    }, {
+      "confidence" : 96,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 3
+    } ],
+    "1540465873624" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540466617209" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540466619863" : [ {
+      "confidence" : 98,
+      "type" : 2
+    }, {
+      "confidence" : 98,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540466625008" : [ {
+      "confidence" : 91,
+      "type" : 2
+    }, {
+      "confidence" : 91,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 1,
+      "type" : 0
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540466630152" : [ {
+      "confidence" : 47,
+      "type" : 2
+    }, {
+      "confidence" : 47,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 9,
+      "type" : 3
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    } ],
+    "1540466635268" : [ {
+      "confidence" : 80,
+      "type" : 2
+    }, {
+      "confidence" : 80,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 4,
+      "type" : 0
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    } ],
+    "1540466640425" : [ {
+      "confidence" : 54,
+      "type" : 2
+    }, {
+      "confidence" : 54,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540466645508" : [ {
+      "confidence" : 46,
+      "type" : 2
+    }, {
+      "confidence" : 46,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540466650602" : [ {
+      "confidence" : 50,
+      "type" : 2
+    }, {
+      "confidence" : 50,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 3
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    } ],
+    "1540466658530" : [ {
+      "confidence" : 57,
+      "type" : 2
+    }, {
+      "confidence" : 57,
+      "type" : 7
+    }, {
+      "confidence" : 13,
+      "type" : 3
+    }, {
+      "confidence" : 9,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 4,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540466663590" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540466666137" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540466668684" : [ {
+      "confidence" : 37,
+      "type" : 2
+    }, {
+      "confidence" : 37,
+      "type" : 7
+    }, {
+      "confidence" : 27,
+      "type" : 3
+    }, {
+      "confidence" : 12,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540466673947" : [ {
+      "confidence" : 44,
+      "type" : 2
+    }, {
+      "confidence" : 44,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 12,
+      "type" : 1
+    }, {
+      "confidence" : 7,
+      "type" : 3
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    } ],
+    "1540466676495" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540466679042" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540466684183" : [ {
+      "confidence" : 25,
+      "type" : 4
+    }, {
+      "confidence" : 23,
+      "type" : 3
+    }, {
+      "confidence" : 14,
+      "type" : 0
+    }, {
+      "confidence" : 14,
+      "type" : 2
+    }, {
+      "confidence" : 14,
+      "type" : 7
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    } ],
+    "1540466689325" : [ {
+      "confidence" : 25,
+      "type" : 3
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 17,
+      "type" : 0
+    }, {
+      "confidence" : 14,
+      "type" : 2
+    }, {
+      "confidence" : 14,
+      "type" : 7
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540466691879" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540466694433" : [ {
+      "confidence" : 33,
+      "type" : 3
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 16,
+      "type" : 0
+    }, {
+      "confidence" : 9,
+      "type" : 2
+    }, {
+      "confidence" : 9,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540466697261" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540466700089" : [ {
+      "confidence" : 33,
+      "type" : 2
+    }, {
+      "confidence" : 33,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 17,
+      "type" : 3
+    }, {
+      "confidence" : 11,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    } ],
+    "1540466705244" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 18,
+      "type" : 3
+    }, {
+      "confidence" : 15,
+      "type" : 0
+    }, {
+      "confidence" : 9,
+      "type" : 2
+    }, {
+      "confidence" : 9,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540466846731" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540466851891" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 30,
+      "type" : 2
+    }, {
+      "confidence" : 30,
+      "type" : 7
+    }, {
+      "confidence" : 9,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540466857004" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540466862094" : [ {
+      "confidence" : 32,
+      "type" : 2
+    }, {
+      "confidence" : 32,
+      "type" : 7
+    }, {
+      "confidence" : 30,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540466867175" : [ {
+      "confidence" : 93,
+      "type" : 2
+    }, {
+      "confidence" : 93,
+      "type" : 7
+    }, {
+      "confidence" : 3,
+      "type" : 3
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    } ],
+    "1540466872274" : [ {
+      "confidence" : 89,
+      "type" : 2
+    }, {
+      "confidence" : 89,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 0
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540466877423" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540466882569" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540466887713" : [ {
+      "confidence" : 94,
+      "type" : 2
+    }, {
+      "confidence" : 94,
+      "type" : 7
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    }, {
+      "confidence" : 2,
+      "type" : 3
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    } ],
+    "1540466892821" : [ {
+      "confidence" : 54,
+      "type" : 2
+    }, {
+      "confidence" : 54,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    } ],
+    "1540466897943" : [ {
+      "confidence" : 45,
+      "type" : 2
+    }, {
+      "confidence" : 45,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 12,
+      "type" : 3
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540466906026" : [ {
+      "confidence" : 33,
+      "type" : 2
+    }, {
+      "confidence" : 33,
+      "type" : 7
+    }, {
+      "confidence" : 27,
+      "type" : 4
+    }, {
+      "confidence" : 11,
+      "type" : 3
+    }, {
+      "confidence" : 7,
+      "type" : 0
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 7,
+      "type" : 8
+    } ],
+    "1540467013912" : [ {
+      "confidence" : 32,
+      "type" : 0
+    }, {
+      "confidence" : 30,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 2
+    }, {
+      "confidence" : 8,
+      "type" : 3
+    }, {
+      "confidence" : 8,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540467019185" : [ {
+      "confidence" : 31,
+      "type" : 4
+    }, {
+      "confidence" : 19,
+      "type" : 3
+    }, {
+      "confidence" : 13,
+      "type" : 2
+    }, {
+      "confidence" : 13,
+      "type" : 7
+    }, {
+      "confidence" : 12,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 8,
+      "type" : 8
+    } ],
+    "1540467023093" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540467027000" : [ {
+      "confidence" : 39,
+      "type" : 3
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 11,
+      "type" : 0
+    }, {
+      "confidence" : 11,
+      "type" : 2
+    }, {
+      "confidence" : 11,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467032854" : [ {
+      "confidence" : 33,
+      "type" : 3
+    }, {
+      "confidence" : 27,
+      "type" : 0
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 2
+    }, {
+      "confidence" : 5,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467037990" : [ {
+      "confidence" : 42,
+      "type" : 3
+    }, {
+      "confidence" : 29,
+      "type" : 0
+    }, {
+      "confidence" : 12,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 2
+    }, {
+      "confidence" : 7,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540467043131" : [ {
+      "confidence" : 22,
+      "type" : 4
+    }, {
+      "confidence" : 18,
+      "type" : 1
+    }, {
+      "confidence" : 18,
+      "type" : 3
+    }, {
+      "confidence" : 17,
+      "type" : 2
+    }, {
+      "confidence" : 17,
+      "type" : 7
+    }, {
+      "confidence" : 12,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467048247" : [ {
+      "confidence" : 55,
+      "type" : 0
+    }, {
+      "confidence" : 19,
+      "type" : 3
+    }, {
+      "confidence" : 11,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 2
+    }, {
+      "confidence" : 3,
+      "type" : 7
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540467053348" : [ {
+      "confidence" : 95,
+      "type" : 0
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 3
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540467058458" : [ {
+      "confidence" : 55,
+      "type" : 0
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 2
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467063553" : [ {
+      "confidence" : 44,
+      "type" : 0
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 7,
+      "type" : 2
+    }, {
+      "confidence" : 7,
+      "type" : 7
+    }, {
+      "confidence" : 6,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467068660" : [ {
+      "confidence" : 45,
+      "type" : 1
+    }, {
+      "confidence" : 33,
+      "type" : 0
+    }, {
+      "confidence" : 12,
+      "type" : 4
+    }, {
+      "confidence" : 3,
+      "type" : 2
+    }, {
+      "confidence" : 3,
+      "type" : 3
+    }, {
+      "confidence" : 3,
+      "type" : 7
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540467073795" : [ {
+      "confidence" : 52,
+      "type" : 1
+    }, {
+      "confidence" : 17,
+      "type" : 2
+    }, {
+      "confidence" : 17,
+      "type" : 7
+    }, {
+      "confidence" : 15,
+      "type" : 3
+    }, {
+      "confidence" : 11,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    } ],
+    "1540467132239" : [ {
+      "confidence" : 67,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 9,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 2
+    }, {
+      "confidence" : 5,
+      "type" : 7
+    }, {
+      "confidence" : 3,
+      "type" : 1
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    } ],
+    "1540467137352" : [ {
+      "confidence" : 34,
+      "type" : 0
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 14,
+      "type" : 3
+    }, {
+      "confidence" : 12,
+      "type" : 2
+    }, {
+      "confidence" : 12,
+      "type" : 7
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467139914" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540467142475" : [ {
+      "confidence" : 42,
+      "type" : 3
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 9,
+      "type" : 0
+    }, {
+      "confidence" : 9,
+      "type" : 2
+    }, {
+      "confidence" : 9,
+      "type" : 7
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467148514" : [ {
+      "confidence" : 69,
+      "type" : 3
+    }, {
+      "confidence" : 14,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 2
+    }, {
+      "confidence" : 5,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    } ],
+    "1540467153894" : [ {
+      "confidence" : 32,
+      "type" : 0
+    }, {
+      "confidence" : 31,
+      "type" : 3
+    }, {
+      "confidence" : 12,
+      "type" : 4
+    }, {
+      "confidence" : 9,
+      "type" : 2
+    }, {
+      "confidence" : 9,
+      "type" : 7
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540467158997" : [ {
+      "confidence" : 44,
+      "type" : 3
+    }, {
+      "confidence" : 28,
+      "type" : 1
+    }, {
+      "confidence" : 12,
+      "type" : 0
+    }, {
+      "confidence" : 9,
+      "type" : 2
+    }, {
+      "confidence" : 9,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    } ],
+    "1540467164080" : [ {
+      "confidence" : 31,
+      "type" : 3
+    }, {
+      "confidence" : 22,
+      "type" : 0
+    }, {
+      "confidence" : 17,
+      "type" : 4
+    }, {
+      "confidence" : 11,
+      "type" : 2
+    }, {
+      "confidence" : 11,
+      "type" : 7
+    }, {
+      "confidence" : 9,
+      "type" : 1
+    }, {
+      "confidence" : 4,
+      "type" : 8
+    } ],
+    "1540467169133" : [ {
+      "confidence" : 49,
+      "type" : 0
+    }, {
+      "confidence" : 16,
+      "type" : 3
+    }, {
+      "confidence" : 12,
+      "type" : 1
+    }, {
+      "confidence" : 11,
+      "type" : 4
+    }, {
+      "confidence" : 6,
+      "type" : 2
+    }, {
+      "confidence" : 6,
+      "type" : 7
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540467174244" : [ {
+      "confidence" : 97,
+      "type" : 0
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 3
+    } ],
+    "1540467179356" : [ {
+      "confidence" : 94,
+      "type" : 0
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    } ],
+    "1540467184445" : [ {
+      "confidence" : 99,
+      "type" : 0
+    } ],
+    "1540467189524" : [ {
+      "confidence" : 94,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 3
+    } ],
+    "1540467194781" : [ {
+      "confidence" : 98,
+      "type" : 0
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540467761584" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540467774930" : [ {
+      "confidence" : 40,
+      "type" : 4
+    }, {
+      "confidence" : 10,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 8
+    } ],
+    "1540467791019" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540467807108" : [ {
+      "confidence" : 32,
+      "type" : 0
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 13,
+      "type" : 3
+    }, {
+      "confidence" : 11,
+      "type" : 2
+    }, {
+      "confidence" : 11,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467812275" : [ {
+      "confidence" : 96,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540467817367" : [ {
+      "confidence" : 88,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 4,
+      "type" : 1
+    }, {
+      "confidence" : 2,
+      "type" : 2
+    }, {
+      "confidence" : 2,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540467822442" : [ {
+      "confidence" : 46,
+      "type" : 0
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 14,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 2
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 7
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540467987907" : [ {
+      "confidence" : 100,
+      "type" : 5
+    } ],
+    "1540467990467" : [ {
+      "confidence" : 100,
+      "type" : 2
+    }, {
+      "confidence" : 100,
+      "type" : 7
+    } ],
+    "1540467995627" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468000720" : [ {
+      "confidence" : 96,
+      "type" : 2
+    }, {
+      "confidence" : 96,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540468005821" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468011560" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468016714" : [ {
+      "confidence" : 97,
+      "type" : 2
+    }, {
+      "confidence" : 97,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540468021778" : [ {
+      "confidence" : 96,
+      "type" : 2
+    }, {
+      "confidence" : 96,
+      "type" : 7
+    }, {
+      "confidence" : 2,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 8
+    } ],
+    "1540468026912" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468032301" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468037417" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468042536" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468047639" : [ {
+      "confidence" : 99,
+      "type" : 2
+    }, {
+      "confidence" : 99,
+      "type" : 7
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468052796" : [ {
+      "confidence" : 55,
+      "type" : 2
+    }, {
+      "confidence" : 55,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540468057914" : [ {
+      "confidence" : 53,
+      "type" : 2
+    }, {
+      "confidence" : 53,
+      "type" : 7
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 6,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540468063009" : [ {
+      "confidence" : 66,
+      "type" : 2
+    }, {
+      "confidence" : 66,
+      "type" : 7
+    }, {
+      "confidence" : 10,
+      "type" : 3
+    }, {
+      "confidence" : 9,
+      "type" : 4
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 1
+    }, {
+      "confidence" : 2,
+      "type" : 8
+    } ],
+    "1540468068157" : [ {
+      "confidence" : 31,
+      "type" : 2
+    }, {
+      "confidence" : 31,
+      "type" : 7
+    }, {
+      "confidence" : 28,
+      "type" : 3
+    }, {
+      "confidence" : 20,
+      "type" : 4
+    }, {
+      "confidence" : 6,
+      "type" : 0
+    }, {
+      "confidence" : 5,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540468073275" : [ {
+      "confidence" : 41,
+      "type" : 3
+    }, {
+      "confidence" : 28,
+      "type" : 2
+    }, {
+      "confidence" : 28,
+      "type" : 7
+    }, {
+      "confidence" : 11,
+      "type" : 4
+    }, {
+      "confidence" : 8,
+      "type" : 0
+    }, {
+      "confidence" : 3,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 8
+    } ],
+    "1540468078415" : [ {
+      "confidence" : 100,
+      "type" : 3
+    } ],
+    "1540468083550" : [ {
+      "confidence" : 91,
+      "type" : 3
+    }, {
+      "confidence" : 5,
+      "type" : 0
+    }, {
+      "confidence" : 1,
+      "type" : 2
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    }, {
+      "confidence" : 1,
+      "type" : 7
+    } ],
+    "1540468088679" : [ {
+      "confidence" : 44,
+      "type" : 3
+    }, {
+      "confidence" : 25,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 4,
+      "type" : 1
+    }, {
+      "confidence" : 3,
+      "type" : 4
+    } ],
+    "1540468093760" : [ {
+      "confidence" : 44,
+      "type" : 3
+    }, {
+      "confidence" : 25,
+      "type" : 0
+    }, {
+      "confidence" : 15,
+      "type" : 2
+    }, {
+      "confidence" : 15,
+      "type" : 7
+    }, {
+      "confidence" : 4,
+      "type" : 1
+    }, {
+      "confidence" : 1,
+      "type" : 4
+    } ],
+    "1540468098880" : [ {
+      "confidence" : 32,
+      "type" : 3
+    }, {
+      "confidence" : 21,
+      "type" : 4
+    }, {
+      "confidence" : 14,
+      "type" : 0
+    }, {
+      "confidence" : 10,
+      "type" : 2
+    }, {
+      "confidence" : 10,
+      "type" : 7
+    }, {
+      "confidence" : 7,
+      "type" : 1
+    }, {
+      "confidence" : 5,
+      "type" : 8
+    } ],
+    "1540468103980" : [ {
+      "confidence" : 22,
+      "type" : 4
+    }, {
+      "confidence" : 20,
+      "type" : 3
+    }, {
+      "confidence" : 19,
+      "type" : 2
+    }, {
+      "confidence" : 19,
+      "type" : 7
+    }, {
+      "confidence" : 18,
+      "type" : 0
+    }, {
+      "confidence" : 8,
+      "type" : 1
+    }, {
+      "confidence" : 6,
+      "type" : 8
+    } ]
+  },
+  "activityTransitions" : {
+    "1540464445633" : [ {
+      "activityType" : 3,
+      "elapsedRealTimeNanos" : 56468781000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 56468781000000,
+      "transitionType" : 0
+    } ],
+    "1540464659940" : [ {
+      "activityType" : 1,
+      "elapsedRealTimeNanos" : 56683035000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 3,
+      "elapsedRealTimeNanos" : 56683035000000,
+      "transitionType" : 0
+    } ],
+    "1540464665056" : [ {
+      "activityType" : 3,
+      "elapsedRealTimeNanos" : 56688160000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 56688160000000,
+      "transitionType" : 0
+    } ],
+    "1540464670189" : [ {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 56693290000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 1,
+      "elapsedRealTimeNanos" : 56693290000000,
+      "transitionType" : 0
+    } ],
+    "1540465053475" : [ {
+      "activityType" : 1,
+      "elapsedRealTimeNanos" : 57076642000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 57076642000000,
+      "transitionType" : 0
+    } ],
+    "1540465079312" : [ {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 57102408000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 1,
+      "elapsedRealTimeNanos" : 57102408000000,
+      "transitionType" : 0
+    } ],
+    "1540465316475" : [ {
+      "activityType" : 1,
+      "elapsedRealTimeNanos" : 57339629000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 57339629000000,
+      "transitionType" : 0
+    } ],
+    "1540465418421" : [ {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 57441517000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 3,
+      "elapsedRealTimeNanos" : 57441517000000,
+      "transitionType" : 0
+    } ],
+    "1540466689415" : [ {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 58712532000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 3,
+      "elapsedRealTimeNanos" : 58712532000000,
+      "transitionType" : 0
+    } ],
+    "1540466700175" : [ {
+      "activityType" : 3,
+      "elapsedRealTimeNanos" : 58723296000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 58723296000000,
+      "transitionType" : 0
+    } ],
+    "1540467068766" : [ {
+      "activityType" : 0,
+      "elapsedRealTimeNanos" : 59091867000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 1,
+      "elapsedRealTimeNanos" : 59091867000000,
+      "transitionType" : 0
+    } ],
+    "1540467807224" : [ {
+      "activityType" : 1,
+      "elapsedRealTimeNanos" : 59831260000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 0,
+      "elapsedRealTimeNanos" : 59831260000000,
+      "transitionType" : 0
+    } ],
+    "1540468073389" : [ {
+      "activityType" : 7,
+      "elapsedRealTimeNanos" : 60097428000000,
+      "transitionType" : 1
+    }, {
+      "activityType" : 3,
+      "elapsedRealTimeNanos" : 60097428000000,
+      "transitionType" : 0
+    } ]
+  }
+}
