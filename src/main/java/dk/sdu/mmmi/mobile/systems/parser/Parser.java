@@ -39,6 +39,7 @@ public class Parser {
         
         Gson gson = new Gson();
         JsonObject root = gson.fromJson(new FileReader(new File(PATH)), JsonObject.class);
+        
         JsonObject activityTransitions = root.getAsJsonObject(ACTIVITY_TRANSITION);
         for (Entry<String, JsonElement> entry : activityTransitions.entrySet()) {
             entry.getValue().getAsJsonArray().forEach(e -> {
@@ -46,6 +47,12 @@ public class Parser {
                         + transitions.get(e.getAsJsonObject().get("transitionType").getAsInt()) + " "
                         + activities.get(e.getAsJsonObject().get("activityType").getAsInt()));
             });
+        }
+        
+        JsonObject activityRecognitions = root.getAsJsonObject(ACTIVITY_RECOGNITION);
+        for (Entry<String, JsonElement> entry : activityRecognitions.entrySet()) {
+            System.out.println(getTimeFormatted(Long.parseLong(entry.getKey())) + " " 
+                        + activities.get(entry.getValue().getAsJsonArray().get(0).getAsJsonObject().get("type").getAsInt()));
         }
     }
     
